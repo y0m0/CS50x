@@ -1,0 +1,15 @@
+
+haystack[0] = 
+haystack[1] = 
+haystack[2] = 
+haystack[3] = 
+haystack[4] = 
+haystack[5] = 
+haystack[6] = 
+haystack[7] = 
+haystack[8] = 
+haystack[9] = 
+haystack[10] = 
+
+Didn't find needle in haystack.
+
